@@ -1,4 +1,4 @@
-public class Helloworldtest {
+public class HelloworldTest {
     public void testme() {
         System.out.println("Running test!!!!!!!!");
     }
